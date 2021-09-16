@@ -1,11 +1,11 @@
 import React from 'react';
 
-import './Bandas.css'
+import './Bands.css'
 
-const Bandas = () => {
+const Bands = () => {
     return (
         <h1 className="sub-title">Albúns das Principais Bandas</h1>
     )
 }
 
-export default Bandas;
+export default Bands;

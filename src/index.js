@@ -3,14 +3,14 @@ import ReactDOM from 'react-dom';
 
 import Header from './components/Header/Header';
 import History from './components/History/History';
-import Bandas from './components/Bandas/Bandas';
-import './index.css'
+import Bands from './components/Bands/Bands';
+import './index.css';
 
 ReactDOM.render(
     <>
     <Header />
     <History />
-    <Bandas />
+    <Bands />
     </>,
     document.getElementById('root')
     
